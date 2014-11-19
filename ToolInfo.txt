@@ -1,0 +1,6 @@
+Files                Version              Source
+
+adb.exe              1.0.31               https://developer.android.com/sdk/index.html?hl=i
+fastboot.exe
+AdbWinApi.dll                             
+AdbWinUsbApi.dll                          
